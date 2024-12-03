@@ -1,7 +1,4 @@
-This is a test document for reproducing the issue with the katex tilde
+# Summary
 
-This should show M with a tilde above:
+- [Test 1 doc](./doc1.md)
 
-$\tilde{M}$
-
-We should expect this text to still be shown.
