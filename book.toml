@@ -13,4 +13,4 @@ additional-js = ["contrib/copy-tex.min.js"]
 output = "htmlAndMathml"
 after = ["links"]
 no-css = true
-include-src = true
+include-src = false
